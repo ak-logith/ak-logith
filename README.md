@@ -1,7 +1,6 @@
 # Hi, I'm Logith
 
-I'm an Electronics & Communication Engineering student at  
-KPR Institute of Engineering and Technology, pursuing an Honors degree in  
+I'm an Electronics & Communication Engineering UnderGrad, pursuing an Honors degree in  
 IC Devices and Testing.
 
 My work is focused on embedded systems, robotics, PCB design, and core semiconductor fundamentals.
