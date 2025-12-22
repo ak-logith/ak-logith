@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Logith
 
-<!--
-**ak-logith/ak-logith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics & Communication Engineering student at  
+KPR Institute of Engineering and Technology, pursuing an Honors degree in  
+IC Devices and Testing.
 
-Here are some ideas to get you started:
+My work is focused on embedded systems, robotics, PCB design, and core semiconductor fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Areas
+
+- Embedded systems and microcontroller programming (C, Python)
+- PCB design and circuit prototyping (KiCad, Altium, Proteus, Multisim, EasyEDA)
+- Semiconductor and VLSI fundamentals
+- Signal processing and DSP applications
+- Hardware–software integration and IoT systems
+- Power electronics and control systems
+
+---
+
+## Projects and Achievements
+
+- Fruit Harvesting Robot  
+  - Built using NVIDIA Jetson Orin Nano  
+  - Integrated embedded systems, robotics, automation and intelligent control
+
+- TechnoXian World Cup 2025  
+  - 5th place – International category  
+  - Worked on competitive robotics and automation systems
+
+---
+
+## Core Skills
+
+- System-level development  
+  - Hardware–software co-design  
+  - System testing and validation
+
+---
+
+## Experience
+
+- Collaboration with engineering teams from  
+  Russia, UK, Vietnam, Taiwan, and Indonesia
+- Exposure to international robotics workflows and team-based development
+
+---
+
+## What I Build
+
+- Embedded firmware for robotics and IoT(Working on it!)
+- PCB designs and hardware prototypes
+- ML models for signal and pattern analysis
+- Electronics and robotics-related open-source projects
+
+---
+
+## Focus
+
+- Core electronics and semiconductor industry roles
+- IC devices, testing, and hardware-oriented development
